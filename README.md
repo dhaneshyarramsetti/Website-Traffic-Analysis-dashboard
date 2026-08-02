@@ -50,12 +50,6 @@ The **Website Traffic Analysis Dashboard** is an interactive Power BI dashboard 
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](Screenshot%202026-08-02%20124702.png)
-
----
-
 ## ▶️ How to Use
 
 1. Download or clone this repository.
@@ -87,6 +81,7 @@ The **Website Traffic Analysis Dashboard** is an interactive Power BI dashboard 
 ---
 
 
----
+
+
 
 ⭐ **If you found this project useful, consider giving it a Star!**
